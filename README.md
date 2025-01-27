@@ -1,2 +1,2 @@
-# 2025-01-26-learning-about-version-control
-Assignment 2
+# Learning about Version Control
+Author: Angela Yandrofski
